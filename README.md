@@ -1,10 +1,10 @@
 # Nesarf_Mollor
 
-<table border="1" bordercolor="#C0C0C0" cellpadding="5" cellspacing="0" width="100%" bgcolor="#F8F8F8">
+<table align="center" border="1" bordercolor="#C0C0C0" cellpadding="5" cellspacing="0" width="860" bgcolor="#F8F8F8">
 <tr><td>本文介绍的是同人音乐人 <b>Nesarf_Mollor</b>。关于其他名义变体，见「基本资料·别号」。</td></tr>
 </table>
 
-<table><tr><td width="270" valign="top">
+<table align="center" width="860"><tr><td width="270" valign="top">
 
 <img src="assets/avatar.png" width="250">
 
@@ -106,7 +106,7 @@ CyroNLapheR 是隶属于聖夢幽庭的独立音乐社团，主打：
 
 ---
 
-<table border="1" bordercolor="#99CCFF" cellpadding="4" cellspacing="0" width="100%">
+<table align="center" border="1" bordercolor="#99CCFF" cellpadding="4" cellspacing="0" width="860">
 <tr><td bgcolor="#D6E8FF" width="80" align="center"><b>相关条目</b></td><td>聖夢幽庭（S.M.Y.T.） · <a href="https://www.dizzylab.net/l/CyroNLapheR/">CyroNLapheR</a> · <a href="https://github.com/Nesarf/Himeyuri">Himeyuri</a> · <a href="https://github.com/Nesarf/Yunooka">Yunooka</a> · <a href="https://github.com/Nesarf/Kohane-Index-Desuno">Kohane-Index-Desuno</a> · <a href="https://github.com/Nesarf/mega-index-map">mega-index-map</a></td></tr>
 </table>
 
