@@ -1,16 +1,16 @@
 # Nesarf_Mollor
 
-<table align="center" border="1" bordercolor="#C0C0C0" cellpadding="5" cellspacing="0" width="860" bgcolor="#F8F8F8">
+<table align="center" border="1" bordercolor="#C0C0C0" cellpadding="5" cellspacing="0" width="720" bgcolor="#F8F8F8">
 <tr><td>本文介绍的是同人音乐人 <b>Nesarf_Mollor</b>。关于其他名义变体，见「基本资料·别号」。</td></tr>
 </table>
 
-<table align="center" width="860"><tr><td width="270" valign="top">
+<table align="center" width="720"><tr><td width="250" valign="top">
 
-<img src="assets/avatar.png" width="250">
+<img src="assets/avatar.png" width="240">
 
 <div align="center"><small>信息栏头像：Vtuber 时期友人所绘</small></div>
 
-<table border="1" bordercolor="#99CCFF" cellpadding="4" cellspacing="0" width="250">
+<table border="1" bordercolor="#99CCFF" cellpadding="4" cellspacing="0" width="240">
 <tr><th colspan="2" bgcolor="#D6E8FF">基本资料</th></tr>
 <tr><td bgcolor="#F0F7FF" width="80"><b>名义</b></td><td>Nesarf_Mollor</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>别号</b></td><td>NesarfDX / Nesarf / 南殇芙 / ネサーフ</td></tr>
@@ -21,10 +21,10 @@
 <tr><td bgcolor="#F0F7FF"><b>独立编曲</b></td><td>自 2014 年 10 月 12 日</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>代表曲目</b></td><td><a href="https://music.163.com/#/song?id=2668660970">网易云音乐</a></td></tr>
 <tr><td bgcolor="#F0F7FF"><b>活跃平台</b></td><td>X / bilibili / SoundCloud / YouTube</td></tr>
-<tr><td bgcolor="#F0F7FF"><b>在玩游戏</b></td><td>ブルアカ / 学マス / ウマ娘 / 碧蓝航线 / 明日方舟 / 雀魂 / Arcaea / MuseDash / Euro Track Simulator 2 / VRChat / Potion Craft</td></tr>
+<tr><td bgcolor="#F0F7FF"><b>在玩游戏</b></td><td>ブルアカ / 学マス / ウマ娘 / 碧蓝航线 / 明日方舟 / 雀魂<br>Arcaea / MuseDash / Euro Track Simulator 2 / VRChat / Potion Craft</td></tr>
 </table>
 
-</td><td valign="top">
+</td><td width="470" valign="top">
 
 ## 1 简介
 
@@ -106,7 +106,7 @@ CyroNLapheR 是隶属于聖夢幽庭的独立音乐社团，主打：
 
 ---
 
-<table align="center" border="1" bordercolor="#99CCFF" cellpadding="4" cellspacing="0" width="860">
+<table align="center" border="1" bordercolor="#99CCFF" cellpadding="4" cellspacing="0" width="720">
 <tr><td bgcolor="#D6E8FF" width="80" align="center"><b>相关条目</b></td><td>聖夢幽庭（S.M.Y.T.） · <a href="https://www.dizzylab.net/l/CyroNLapheR/">CyroNLapheR</a> · <a href="https://github.com/Nesarf/Himeyuri">Himeyuri</a> · <a href="https://github.com/Nesarf/Yunooka">Yunooka</a> · <a href="https://github.com/Nesarf/Kohane-Index-Desuno">Kohane-Index-Desuno</a> · <a href="https://github.com/Nesarf/mega-index-map">mega-index-map</a></td></tr>
 </table>
 
