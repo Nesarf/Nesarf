@@ -1,14 +1,14 @@
 # Nesarf_Mollor
 
-<table align="center" border="1" bordercolor="#C0C0C0" cellpadding="5" cellspacing="0" width="720" bgcolor="#F8F8F8">
-<tr><td>本文介绍的是同人音乐人 <b>Nesarf_Mollor</b>。关于其他名义变体，见「基本资料·别号」。</td></tr>
+<table border="1" bordercolor="#C0C0C0" cellpadding="5" cellspacing="0" bgcolor="#F8F8F8">
+<tr><td>本文介绍的是同人音乐人 <b>Nesarf_Mollor</b>。<br>关于其他名义变体，见「基本资料·别号」。</td></tr>
 </table>
 
-<table align="center" width="720"><tr><td width="250" valign="top">
+<div align="center">
 
 <img src="assets/avatar.png" width="240">
 
-<div align="center"><small>信息栏头像：Vtuber 时期友人所绘</small></div>
+<small>信息栏头像：Vtuber 时期友人所绘</small>
 
 <table border="1" bordercolor="#99CCFF" cellpadding="4" cellspacing="0" width="240">
 <tr><th colspan="2" bgcolor="#D6E8FF">基本资料</th></tr>
@@ -24,7 +24,7 @@
 <tr><td bgcolor="#F0F7FF"><b>在玩游戏</b></td><td>ブルアカ / 学マス / ウマ娘 / 碧蓝航线 / 明日方舟 / 雀魂<br>Arcaea / MuseDash / Euro Track Simulator 2 / VRChat / Potion Craft</td></tr>
 </table>
 
-</td><td width="470" valign="top">
+</div>
 
 ## 1 简介
 
@@ -36,6 +36,8 @@
 
 自述：码字的、写曲子的、玩GAL的、看音MAD的、人怪心善。
 
+<div align="center">
+
 <table border="1" bordercolor="#99CCFF" cellpadding="5" cellspacing="0">
 <tr>
 <td bgcolor="#F0F7FF" width="150">这个用户是 <b>Composer</b>。<br><small>主做 HDM 与 Symphony</small></td>
@@ -43,6 +45,8 @@
 <td bgcolor="#F0F7FF" width="150">这个用户常驻 <b>萌娘百科</b>。<br><small>名义：南殇芙</small></td>
 </tr>
 </table>
+
+</div>
 
 ## 2 经历
 
@@ -102,15 +106,13 @@ CyroNLapheR 是隶属于聖夢幽庭的独立音乐社团，主打：
 8. [YouTube](https://www.youtube.com/@NesarfMollor)
 9. [萌娘百科（南殇芙）](https://zh.moegirl.org.cn/User:%E5%8D%97%E6%AE%87%E8%8A%99)
 
-</td></tr></table>
-
 ---
 
-<table align="center" border="1" bordercolor="#99CCFF" cellpadding="4" cellspacing="0" width="720">
-<tr><td bgcolor="#D6E8FF" width="80" align="center"><b>相关条目</b></td><td>聖夢幽庭（S.M.Y.T.） · <a href="https://www.dizzylab.net/l/CyroNLapheR/">CyroNLapheR</a> · <a href="https://github.com/Nesarf/Himeyuri">Himeyuri</a> · <a href="https://github.com/Nesarf/Yunooka">Yunooka</a> · <a href="https://github.com/Nesarf/Kohane-Index-Desuno">Kohane-Index-Desuno</a> · <a href="https://github.com/Nesarf/mega-index-map">mega-index-map</a></td></tr>
-</table>
-
 <div align="center">
+
+<table border="1" bordercolor="#99CCFF" cellpadding="4" cellspacing="0">
+<tr><td bgcolor="#D6E8FF" width="80"><b>相关条目</b></td><td>聖夢幽庭（S.M.Y.T.） · <a href="https://www.dizzylab.net/l/CyroNLapheR/">CyroNLapheR</a> · <a href="https://github.com/Nesarf/Himeyuri">Himeyuri</a> · <a href="https://github.com/Nesarf/Yunooka">Yunooka</a><br><a href="https://github.com/Nesarf/Kohane-Index-Desuno">Kohane-Index-Desuno</a> · <a href="https://github.com/Nesarf/mega-index-map">mega-index-map</a></td></tr>
+</table>
 
 **分类**：同人音乐人 / <s>程序员</s> / 萌娘百科编辑者
 
