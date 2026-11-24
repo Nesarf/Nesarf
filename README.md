@@ -42,7 +42,7 @@
 <tr>
 <td bgcolor="#F0F7FF" width="150">这个用户是 <b>Composer</b>。<br><small>主做 HDM 与 Symphony</small></td>
 <td bgcolor="#F0F7FF" width="150">这个用户是 <b>Novelist</b>。<br><small>写轻小说与散文</small></td>
-<td bgcolor="#F0F7FF" width="100">这个用户常驻 <b>萌娘百科</b>。<br><small>名义：南殇芙</small></td>
+<td bgcolor="#F0F7FF" width="130">这个用户常驻 <b>萌娘百科</b>。<br><small>名义：南殇芙</small></td>
 </tr>
 </table>
 
