@@ -111,7 +111,7 @@ CyroNLapheR 是隶属于聖夢幽庭的独立音乐社团，主打：
 <div align="center">
 
 <table border="1" bordercolor="#99CCFF" cellpadding="4" cellspacing="0">
-<tr><td bgcolor="#D6E8FF" width="80"><b>相关条目</b></td><td>聖夢幽庭（S.M.Y.T.） · <a href="https://www.dizzylab.net/l/CyroNLapheR/">CyroNLapheR</a> · <a href="https://github.com/Nesarf/Himeyuri">Himeyuri</a> · <a href="https://github.com/Nesarf/Yunooka">Yunooka</a><br><a href="https://github.com/Nesarf/Kohane-Index-Desuno">Kohane-Index-Desuno</a> · <a href="https://github.com/Nesarf/mega-index-map">mega-index-map</a></td></tr>
+<tr><td bgcolor="#D6E8FF" width="800"><b>相关条目</b></td><td>聖夢幽庭（S.M.Y.T.） · <a href="https://www.dizzylab.net/l/CyroNLapheR/">CyroNLapheR</a> · <a href="https://github.com/Nesarf/Himeyuri">Himeyuri</a> · <a href="https://github.com/Nesarf/Yunooka">Yunooka</a><br><a href="https://github.com/Nesarf/Kohane-Index-Desuno">Kohane-Index-Desuno</a> · <a href="https://github.com/Nesarf/mega-index-map">mega-index-map</a></td></tr>
 </table>
 
 **分类**：同人音乐人 / <s>程序员</s> / 萌娘百科编辑者
