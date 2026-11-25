@@ -19,7 +19,7 @@
 <tr><td bgcolor="#F0F7FF"><b>音乐社团</b></td><td>CyroNLapheR</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>主要曲风</b></td><td>HDM / Rave / Classical / D&amp;B</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>独立编曲</b></td><td>自 2014 年 10 月 12 日</td></tr>
-<tr><td bgcolor="#F0F7FF"><b>代表曲目</b></td><td><a href="https://music.163.com/#/song?id=2668660970">网易云音乐</a></td></tr>
+<tr><td bgcolor="#F0F7FF"><b>代表曲目</b></td><td><a href="https://music.163.com/#/song?id=2668660970">Laventyreek</a></td></tr>
 <tr><td bgcolor="#F0F7FF"><b>活跃平台</b></td><td>X / bilibili / SoundCloud / YouTube</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>在玩游戏</b></td><td>ブルアカ / 学マス / ウマ娘 / 碧蓝航线 / 明日方舟 / 雀魂<br>Arcaea / MuseDash / Euro Track Simulator 2 / VRChat / Potion Craft</td></tr>
 </table>
