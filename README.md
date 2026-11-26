@@ -17,10 +17,10 @@
 <tr><td bgcolor="#F0F7FF"><b>身份</b></td><td>Composer / Novelist / 开发者 / 萌百编辑者</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>所属团体</b></td><td>聖夢幽庭（S.M.Y.T.）</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>音乐社团</b></td><td>CyroNLapheR</td></tr>
-<tr><td bgcolor="#F0F7FF"><b>主要曲风</b></td><td>HDM / Rave / Classical / D&amp;B</td></tr>
+<tr><td bgcolor="#F0F7FF"><b>主要曲风</b></td><td>HDM / Symphony / Rave / Classical / DnB</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>独立作编曲</b></td><td>自 2014 年 10 月 12 日</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>代表曲目</b></td><td><a href="https://music.163.com/#/song?id=2668660970">Laventyreek</a></td></tr>
-<tr><td bgcolor="#F0F7FF"><b>活跃平台</b></td><td>X / bilibili / SoundCloud / YouTube</td></tr>
+<tr><td bgcolor="#F0F7FF"><b>主要平台</b></td><td>X / bilibili / SoundCloud / YouTube<br><small>全部链接见下方「外部链接」</small></td></tr>
 <tr><td bgcolor="#F0F7FF"><b>在玩游戏</b></td><td>ブルアカ / 学マス / ウマ娘 / 碧蓝航线 / 明日方舟 / 雀魂<br>Arcaea / MuseDash / Euro Track Simulator 2 / VRChat / Potion Craft</td></tr>
 </table>
 
@@ -42,7 +42,10 @@
 <tr>
 <td bgcolor="#F0F7FF" width="150">这个用户是 <b>Composer</b>。<br><small>主做 HDM 与 Symphony</small></td>
 <td bgcolor="#F0F7FF" width="150">这个用户是 <b>Novelist</b>。<br><small>写轻小说与散文</small></td>
-<td bgcolor="#F0F7FF" width="130">这个用户常驻 <b>萌娘百科</b>。<br><small>名义：南殇芙</small></td>
+</tr>
+<tr>
+<td bgcolor="#F0F7FF" width="150">这个用户会写 <b>程序</b>。<br><small>用 DeepSeek 做工具与开发</small></td>
+<td bgcolor="#F0F7FF" width="150">这个用户常驻 <b>萌娘百科</b>。<br><small>名义：南殇芙</small></td>
 </tr>
 </table>
 
