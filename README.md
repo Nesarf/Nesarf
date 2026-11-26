@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/avatar.png" width="240">
+<img src="assets/avatar.webp" width="240">
 
 <small>信息栏头像：Vtuber 时期友人所绘</small>
 
@@ -18,7 +18,7 @@
 <tr><td bgcolor="#F0F7FF"><b>所属团体</b></td><td>聖夢幽庭（S.M.Y.T.）</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>音乐社团</b></td><td>CyroNLapheR</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>主要曲风</b></td><td>HDM / Rave / Classical / D&amp;B</td></tr>
-<tr><td bgcolor="#F0F7FF"><b>独立编曲</b></td><td>自 2014 年 10 月 12 日</td></tr>
+<tr><td bgcolor="#F0F7FF"><b>独立作编曲</b></td><td>自 2014 年 10 月 12 日</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>代表曲目</b></td><td><a href="https://music.163.com/#/song?id=2668660970">Laventyreek</a></td></tr>
 <tr><td bgcolor="#F0F7FF"><b>活跃平台</b></td><td>X / bilibili / SoundCloud / YouTube</td></tr>
 <tr><td bgcolor="#F0F7FF"><b>在玩游戏</b></td><td>ブルアカ / 学マス / ウマ娘 / 碧蓝航线 / 明日方舟 / 雀魂<br>Arcaea / MuseDash / Euro Track Simulator 2 / VRChat / Potion Craft</td></tr>
@@ -28,11 +28,11 @@
 
 ## 1 简介
 
-<img align="right" src="assets/sigil.png" width="170">
+<img align="right" src="assets/sigil.webp" width="170">
 
-这里是 **Nesarf_Mollor**<sup>[[1]](#6-注释)</sup>。Composer 与 Novelist：主做流派是 HDM 和 Symphony；写的主要是轻小说和散文。喜欢叙事诗式的风格与沉浸感氛围的音乐<sup>[[2]](#6-注释)</sup>，2017 年起推 V。
+这里是 **Nesarf_Mollor**。Composer 与 Novelist：主做流派是 HDM 和 Symphony；写的主要是轻小说和散文。喜欢叙事诗式的风格与沉浸感氛围的音乐，2017 年起推 V。
 
-自 2014 年 10 月 12 日起独立作编曲至今。使用 DeepSeek 进行工具与程序开发，并以「南殇芙」的名义在萌娘百科编辑条目。隶属于国际研学组织聖夢幽庭（S.M.Y.T.），主理独立音乐社团 CyroNLapheR。
+自 2014 年 10 月 12 日起独立作编曲至今。使用 DeepSeek 进行工具与程序开发，并以「南殇芙」的名义在萌娘百科编辑条目。隶属于无政府研学会聖夢幽庭（S.M.Y.T.），主理独立音乐社团 CyroNLapheR。
 
 自述：码字的、写曲子的、玩GAL的、看音MAD的、人怪心善。
 
@@ -50,7 +50,7 @@
 
 ## 2 经历
 
-- **2014 年**：10 月 12 日，开始独立编曲。
+- **2014 年**：10 月 12 日，开始独立作编曲。
 - **2015 年**：Mikufans 旧账号因操作失误丢失，建立新账号 Nesarf_Mollor。
 - **2016 年**：12 月，开始推 V。
 - **2017 年**：正式开始 DD；给多位 Vtuber 写过同人曲，参与过国内社团运营与游戏运营策划。
@@ -88,13 +88,7 @@ CyroNLapheR 是隶属于聖夢幽庭的独立音乐社团，主打：
 
 轻文学与散文：轻文学以异世界题材为主，散文以景散和抒散为主。偶尔写诗，主要是楚辞和古体四言诗。
 
-## 6 注释
-
-[1] 主做流派是 HDM 和 Symphony。
-
-[2] 主要写的是轻小说和散文。
-
-## 7 外部链接
+## 6 外部链接
 
 1. [SoundCloud](https://soundcloud.com/nesarfmollor)
 2. [dizzylab（CyroNLapheR）](https://www.dizzylab.net/l/CyroNLapheR/)
@@ -117,7 +111,5 @@ CyroNLapheR 是隶属于聖夢幽庭的独立音乐社团，主打：
 **分类**：同人音乐人 / <s>程序员</s> / 萌娘百科编辑者
 
 ![last-commit](https://img.shields.io/github/last-commit/Nesarf/Nesarf)
-
-本页面最后修改于 GitHub 提交时自动更新
 
 </div>
